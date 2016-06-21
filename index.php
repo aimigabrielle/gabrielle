@@ -2,5 +2,7 @@
 
 echo "<h1>Projetinho</h1>";
 
-echo "Este é um porjet quee escevi tdo eraddo";
-echo "Facor, corigi-llo";
+echo "Este é um projeto que escrevi tudo errado";
+echo "Favor, corrigí-lo";
+echo '<br>';
+echo 'Modifiquei o projetinho';
